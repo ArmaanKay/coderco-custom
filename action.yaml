@@ -10,7 +10,7 @@ inputs:
 
 outputs:
   time:
-    descriptions: time greeted
+    description: time greeted
 
 runs:
   using: node20
